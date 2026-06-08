@@ -4,12 +4,11 @@
 
 <div align="center">
 
-<p><strong><font size="8">I'm Alejandra Suarez Sepulveda</font></strong></p>
+<p><strong><font size="5">I'm Alejandra Suarez Sepulveda</font></strong></p>
 <h5>Systems Engineering Student · EAFIT University, Medellín 🇨🇴<br>Passionate about Software Development & Data Science</h5>
 
 </div>
 
----
 
 ###
 <h2 align="left">About me</h2>

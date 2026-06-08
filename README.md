@@ -3,9 +3,13 @@
 </div>
 
 <div align="center">
-<h1>I'm Alejandra Suarez Sepulveda</h1>
+
+<h2>I'm Alejandra Suarez Sepulveda</h2>
 <h5>Systems Engineering Student · EAFIT University, Medellín 🇨🇴<br>Passionate about Software Development & Data Science</h5>
+
 </div>
+
+---
 
 ---
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<p><strong><font size="6">I'm Alejandra Suarez Sepulveda</font></strong></p>
+<h3>I'm Alejandra Suarez Sepulveda</font></strong></h3>
 <h5>Systems Engineering Student · EAFIT University, Medellín 🇨🇴<br>Passionate about Software Development & Data Science</h5>
 
 </div>

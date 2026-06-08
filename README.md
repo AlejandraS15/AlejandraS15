@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20there!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FFB5C0"  />
 </div>
 
-### <h1 align="center">I'm Alejandra Suarez Sepulveda</h1>
+<h1 align="center">I'm Alejandra Suarez Sepulveda</h1>
 <h5 align="center">Systems Engineering Student · EAFIT University, Medellín 🇨🇴<br>Passionate about Software Development & Data Science</h5>
 
 ###

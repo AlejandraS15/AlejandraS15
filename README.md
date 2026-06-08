@@ -3,7 +3,6 @@
 </div>
 
 ### <h1 align="center">I'm Alejandra Suarez Sepulveda</h1>
-###
 <h5 align="center">Systems Engineering Student · EAFIT University, Medellín 🇨🇴<br>Passionate about Software Development & Data Science</h5>
 
 ###

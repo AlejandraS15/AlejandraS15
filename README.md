@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a Systems Engineering student at EAFIT University, building my path across two exciting tracks: Software Development and Data Science. I love learning and sharing what I know — I currently serve as an academic teaching assistant 👩‍🏫 TA @ EAFIT at my university.<br><br>🎓 Studying Systems Engineering at EAFIT University<br>👩‍🏫 Teaching Assistant — helping fellow students excel in their courses<br>🌱 Currently exploring Vue.js, NestJS, and Nuxt in depth<br>🔍 Interested in full-stack development and data-driven solutions<br>📍 Based in Medellín, Colombia</p>
+<p align="left">I'm a Systems Engineering student at EAFIT University, building my path across two exciting tracks: Software Development and Data Science. I love learning and sharing what I know.<br><br>🎓 Studying Systems Engineering at EAFIT University<br>👩‍🏫 Teaching Assistant — helping fellow students excel in their courses<br>🌱 Currently exploring Vue.js, NestJS, and Nuxt in depth<br>🔍 Interested in full-stack development and data-driven solutions<br>📍 Based in Medellín, Colombia</p>
 
 
 
